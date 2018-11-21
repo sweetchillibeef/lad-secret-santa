@@ -1,1 +1,1 @@
-web: java -jar lad-secret-santa/out/artifacts/lad_secret_santa_jar
+web: java -jar target/lad-secret-santa-1.0-SNAPSHOT.jar
