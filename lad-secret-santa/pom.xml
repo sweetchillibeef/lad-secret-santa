@@ -7,6 +7,13 @@
     <groupId>lad-secret-santa</groupId>
     <artifactId>lad-secret-santa</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>4.3.4.RELEASE</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
