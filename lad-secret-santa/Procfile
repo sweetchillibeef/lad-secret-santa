@@ -1,2 +1,2 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
+web: java -jar target/lad-secret-santa-1.0-SNAPSHOT.jar
 
